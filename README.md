@@ -1,1 +1,2 @@
 # tecnicasdeprogramacao
+# escrito no arquivolocal
